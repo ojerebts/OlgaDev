@@ -8,7 +8,7 @@ I am currentl working
 At Globant, I started as a Senior iOS Engineer and was quickly promoted to the role of iOS Tech Lead. I was responsible for leading a team of six engineers for a large clothing brand. While working
 
 ## Health App Prototype
-For this freelancing project, I developed a quick prototype that was fetching data from a variety of databses and displayed the information on person's medications in Apple's Health app. 
+For this freelancing project, I developed a quick prototype that was fetching data from a variety of databses, files, and online sources with medical information. The medications information was then displayed in Apple's Health app. The app was designed to enhance user experience in Health app, providing vital information on possible medical contraindication, interactions, and adverse reactions for the user.
 
 ## Roka Security Messaging App
 Roka Security is a computer service firm specializing in cyber security. RokaCom Messaging App was a secure messaging application that allowed encrypted messaging and voice calling over wifi. For this project, I implemented end-to-end encryption via SHA-256 encryption and voice calling using open source project [Linphone](https://www.linphone.org/)
