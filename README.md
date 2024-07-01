@@ -1,12 +1,13 @@
 # iOS Portfolio
 Hi, I am Olga! I have over 10+ years of professional experience writing beautiful, native iOS Apps for iPhone and iPad, using Swift and Objective-C. I have been writing iPhone apps since before ARC was introduced in Xcode. Take a look at my projects.
 
-## WIP - Elevate with Olga
-I am currentl working 
-
 ## Globant
-At Globant, I started as a Senior iOS Engineer and was quickly promoted to the role of iOS Tech Lead. I was responsible for leading a team of six engineers for a large clothing brand. While working
+At Globant, I began as a Senior iOS Engineer and swiftly advanced to the position of iOS Tech Lead, overseeing a team of six engineers for a major clothing brand. In this role, I collaborated closely with business, QA, and backend teams to ensure the timely delivery of features within an aggressive release cycle. I actively contributed to major architecture decisions along side other leads, oboarded and trained new members of the team, and made sure we follow architecture guidelines through daily code reviews. The app itself has a number of architectural complexities such as supporting 4 different brands within one app, consuming dynamic information from a variety of backend systems, payment processing, shopping cart, membershib benefits, advanced filtering and search capabilities, and manny others. <br/>
 
+<p align="center">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/1.png" width="80%" align="center"><br/>
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/2.png" width="80%" align="center">
+</p>
 ## Health App Prototype
 For this freelancing project, I developed a quick prototype that was fetching data from a variety of databses, files, and online sources with medical information. The medications information was then displayed in Apple's Health app. The app was designed to enhance user experience in Health app, providing vital information on possible medical contraindication, interactions, and adverse reactions for the user.
 
@@ -24,7 +25,7 @@ Millenial Media was a mobile advertising platform providing ability for develope
 
 ## [Sadhana Tracker](https://apps.apple.com/us/app/sadhana-tracker/id898291229)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/sadhana%20tracker%20icon.png" width="60"> <br/>
-Personal app I wrote to assist spiritual practictioners to track their meditation practice. As of June 2024 it occupies #89 place in Health & Fitness section! Main features include ability to add meditation practice for a pre-determined number of days (40, 90, 120, and 1000 days), checkin on a daily basis, share the progress, receive push notifications as reminders, and add notes to reflect on the practice itself. 
+Personal app I wrote to assist spiritual practictioners to track their meditation practice. As of June 2024 **it occupies #89 place in Health & Fitness section!** Main features include ability to add meditation practice for a pre-determined number of days (40, 90, 120, and 1000 days), checkin on a daily basis, share the progress, receive push notifications as reminders, and add notes to reflect on the practice itself. 
 
 ## [Kirtan Kriya Timer](https://apps.apple.com/us/app/kirtan-kriya-timer/id702713305)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/kirtan%20kriya%20timer%20icon.png" width="60"> <br/>
@@ -33,6 +34,12 @@ Personal timer app that is no longer supported by me. Kirtan Kriya is one of the
 ## [Quotes by Yogi Bhajan](https://apps.apple.com/us/app/quotes-by-yogi-bhajan/id557492358)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/yogi%20bhajan%20icon.png" width="60"> <br/>
 This is my first personal app that I wrote with inspirational quotes from a master of Kundalini Yoga. Since it was launched in 2012, it still gets daily downloads and excellent reviews. To this day, I see people using the app on Instagram and posting screenshots from it. Features include ability to swipe through quotes, bookmark favorite quotes, and receive a random quote via Today Widget on iPhone screen.
+
+## WIP - New Kirtan Kriya timer
+I am currently working on re-writing my Kirtan Kriya Timer app while learning SwiftUI. <br/><br/><br/>
+<p allign="center">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/current%20project%20wip%20screenshot.png" width="150" align="center">
+</p>
 
 ### Technologies I used for these projects:
 - Languages: Objective-C, Swift
