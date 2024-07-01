@@ -16,8 +16,8 @@ Roka Security is a computer service firm specializing in cyber security. RokaCom
 ## goPanache
 goPanache was a 'one stop shop' for barbers that allowed them to showcase products, services, book appointments, and sell products. As one of the earliest lead engineers on the project, I worked on developing the entire application from mockups to shipping it to the App Store. The app had a variety of complex features such as supporting multiple service locations for barbers, accepting credit card payments, displaying online shop with products to upsell, book appoiintments and pay before or after the service, search available barbers in the area, cancel appointments and many others.
 
-## Wildfyre
-Wildfyre was an app prototype that worked (similar to Periscope), allowing short live streams to be watched by the user, like, comment, and participate during the live stream or watch a recording.
+## Wildfyre 
+Wildfyre was an app prototype that worked (similar to Periscope), allowing to stream for creators and participate for the audience by liking, commenting, and watching the the live stream afterwards. 
 
 ## Millenial Media
 Millenial Media was a mobile advertising platform specializing in monetization using various formats of ads: banners, full screen video, and inline ads. I imeplemented internal app for our QA team to test variety of ad formats quickly. 
