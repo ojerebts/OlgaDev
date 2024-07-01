@@ -56,8 +56,8 @@ This is my first personal app that I wrote with inspirational quotes from a mast
 ### Technologies I used for these projects:
 - Languages: Objective-C, Swift
 - Persistence: SQLite, CoreData, UserDefaults, File System
-- Libraries/ Frameworks/ Open Source Libraries: UIKit, Core Audio, MapKit, AFNetworking, Linphone, HealthKit, Lottie, AVFoundation (and probably others)
+- Libraries/ Frameworks/ Open Source Libraries: UIKit, Core Audio, MapKit, AFNetworking, Linphone, HealthKit, Lottie, AVFoundation (and many others)
 - Dependency management & deployment: CocoaPods, Docker
-- Source control: git flow (git branching model)
+- Source control: git flow (git branching model), git
 - Process: Scrum, Kanban
 
