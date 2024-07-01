@@ -8,6 +8,7 @@ At Globant, I began as a Senior iOS Engineer and swiftly advanced to the positio
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/1.png" width="80%" align="center"><br/>
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/2.png" width="80%" align="center">
 </p>
+
 ## Health App Prototype
 For this freelancing project, I developed a quick prototype that was fetching data from a variety of databses, files, and online sources with medical information. The medications information was then displayed in Apple's Health app. The app was designed to enhance user experience in Health app, providing vital information on possible medical contraindication, interactions, and adverse reactions for the user.
 
@@ -16,6 +17,11 @@ Roka Security is a computer service firm specializing in cyber security. RokaCom
 
 ## goPanache
 goPanache was a 'one stop shop' for barbers that allowed them to showcase products, services, book appointments, and sell products. As one of the earliest lead engineers on the project, I worked on developing the entire application from mockups to shipping it to the App Store. The app had a variety of complex features such as supporting multiple service locations for barbers, accepting credit card payments, displaying online shop with products to upsell, book appoiintments and pay before or after the service, search available barbers in the area, cancel appointments and many others.
+<p align="center">
+  <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20banner.png" width="60%"><br/>
+  <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20watch.png" width="30%"><br/>
+  <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20video%20small%20(1).gif">
+</p>
 
 ## Wildfyre 
 Wildfyre was an app prototype that worked (similar to Periscope), allowing to stream for creators and participate for the audience by liking, commenting, and watching the the live stream afterwards. 
@@ -34,12 +40,6 @@ Personal timer app that is no longer supported by me. Kirtan Kriya is one of the
 ## [Quotes by Yogi Bhajan](https://apps.apple.com/us/app/quotes-by-yogi-bhajan/id557492358)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/yogi%20bhajan%20icon.png" width="60"> <br/>
 This is my first personal app that I wrote with inspirational quotes from a master of Kundalini Yoga. Since it was launched in 2012, it still gets daily downloads and excellent reviews. To this day, I see people using the app on Instagram and posting screenshots from it. Features include ability to swipe through quotes, bookmark favorite quotes, and receive a random quote via Today Widget on iPhone screen.
-
-## WIP - New Kirtan Kriya timer
-I am currently working on re-writing my Kirtan Kriya Timer app while learning SwiftUI. <br/><br/><br/>
-<p allign="center">
-<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/current%20project%20wip%20screenshot.png" width="150" align="center">
-</p>
 
 ### Technologies I used for these projects:
 - Languages: Objective-C, Swift
