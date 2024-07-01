@@ -13,10 +13,10 @@ At Globant, I began as a Senior iOS Engineer and swiftly advanced to the positio
 For this freelancing project, I developed a quick prototype that was fetching data from a variety of databases, files, and online sources with medical information. The medications information was then displayed in Apple's Health app. The app was designed to enhance user experience in Health app, providing vital information on possible medical contraindication, interactions, and adverse reactions for the user.
 
 ## Roka Security Messaging App
-Roka Security is a computer service firm specializing in cyber security. RokaCom Messaging App was a secure messaging application that allowed encrypted messaging and voice calling over wifi. For this project, I implemented end-to-end encryption via SHA-256 encryption and voice calling using open source project [Linphone](https://www.linphone.org/)
+Roka Security is a computer service firm specializing in cyber security. RokaCom Messaging App was a secure messaging application that allowed encrypted messaging and voice calling over wifi. For this project, I implemented two main functions: end-to-end encryption via SHA-256 encryption and voice calling using open source project [Linphone](https://www.linphone.org/). 
 
 ## goPanache
-goPanache was a 'one stop shop' for barbers that allowed them to showcase products, services, book appointments, and sell products. As one of the earliest lead engineers on the project, I worked on developing the entire application from mockups to shipping it to the App Store. The app had a variety of complex features such as supporting multiple service locations for barbers, accepting credit card payments, displaying online shop with products to upsell, book appointments and pay before or after the service, search available barbers in the area, cancel appointments and many others.
+goPanache was a 'one stop shop' for barbers and beauty professionals that allowed them to showcase products, services, book appointments, and sell products. As one of the earliest lead engineers on the project, I worked on developing the entire application from mockups to shipping it to the App Store. The app had a variety of complex features such as supporting multiple service locations for barbers, accepting credit card payments, displaying online shop with products to upsell, book appointments and pay before or after the service, search available barbers in the area, cancel appointments and many others.
 <p align="center">
   <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20banner.png" width="60%"><br/>
   <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20watch.png" width="30%"><br/>
@@ -24,7 +24,7 @@ goPanache was a 'one stop shop' for barbers that allowed them to showcase produc
 </p>
 
 ## Wildfyre 
-Wildfyre was an app prototype that worked (similar to Periscope), allowing to stream for creators and participate for the audience by liking, commenting, and watching the live stream afterwards. 
+Wildfyre was an app prototype similar to Periscope, enabling creators to stream live while allowing the audience to participate by liking, commenting, and watching the stream afterward.  
 
 ## Millennial Media
 Millennial Media was a mobile advertising platform providing ability for developers to include their SDK in the apps and receiving a portion of ad revenue. SDK supported various formats of ads: banners, full screen video, and inline ads. While working on SDK team at the company, I implemented internal app for our QA team to test variety of ad formats quickly and efficiently. 
