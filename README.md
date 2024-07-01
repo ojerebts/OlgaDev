@@ -32,14 +32,26 @@ Millenial Media was a mobile advertising platform providing ability for develope
 ## [Sadhana Tracker](https://apps.apple.com/us/app/sadhana-tracker/id898291229)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/sadhana%20tracker%20icon.png" width="60"> <br/>
 Personal app I wrote to assist spiritual practictioners to track their meditation practice. As of June 2024 **it occupies #89 place in Health & Fitness section!** Main features include ability to add meditation practice for a pre-determined number of days (40, 90, 120, and 1000 days), checkin on a daily basis, share the progress, receive push notifications as reminders, and add notes to reflect on the practice itself. 
+<br/>
+<p align="center">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/sadhana%20tracker%20screenshots.png" width="70%">
+</p>
 
 ## [Kirtan Kriya Timer](https://apps.apple.com/us/app/kirtan-kriya-timer/id702713305)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/kirtan%20kriya%20timer%20icon.png" width="60"> <br/>
 Personal timer app that is no longer supported by me. Kirtan Kriya is one of the fundamental practices in Kundalini Yoga. This timer app is a great assistant the practice of Kirtan Kriya that allows to adjust the time from 11 min to 2,5 hours if desired. App allows to choose a music to practice along and alerts the practitioner when the intervals of the practice are finished. Other app features include: screen autolock to prevent the screen from dimming during your practice, choice of vibration vs chimes in settings, and background information on the practice itself.
+<br/>
+<p align="center">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/kirtan%20kriya%20timer%20screenshots.png" width="70%">
+</p>
 
 ## [Quotes by Yogi Bhajan](https://apps.apple.com/us/app/quotes-by-yogi-bhajan/id557492358)
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/yogi%20bhajan%20icon.png" width="60"> <br/>
 This is my first personal app that I wrote with inspirational quotes from a master of Kundalini Yoga. Since it was launched in 2012, it still gets daily downloads and excellent reviews. To this day, I see people using the app on Instagram and posting screenshots from it. Features include ability to swipe through quotes, bookmark favorite quotes, and receive a random quote via Today Widget on iPhone screen.
+<br/>
+<p align="center">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/yogi%20bhajan%20screenshots.png" width="60%">
+</p>
 
 ### Technologies I used for these projects:
 - Languages: Objective-C, Swift
