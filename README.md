@@ -1,5 +1,5 @@
 # iOS Portfolio
-Hi, I am Olga! I have over 10+ years of professional experience writing beautiful, native iOS Apps for iPhone and iPad, using Swift and Objective-C. I have been writing iPhone apps since before ARC was introduced in Xcode. Take a look at my projects.
+Hi, I am Olga! I have over 10+ years of professional experience writing beautiful, native iOS Apps for iPhone and iPad, using Swift and Objective-C. I have been writing iPhone apps since before ARC(automatic reference counting) was introduced in Xcode. Take a look at my projects.
 
 ## Globant
 At Globant, I began as a Senior iOS Engineer and swiftly advanced to the position of iOS Tech Lead, overseeing a team of six engineers for a major clothing brand. In this role, I collaborated closely with business, QA, and backend teams to ensure the timely delivery of features within an aggressive release cycle. I actively contributed to major architecture decisions alongside other leads, onboarded and trained new members of the team, and made sure we follow architecture guidelines through daily code reviews. The app itself has a number of architectural complexities such as supporting 4 different brands within one app, consuming dynamic information from a variety of backend systems, payment processing, shopping cart, membership benefits, advanced filtering and search capabilities, and many others. <br/>
@@ -16,6 +16,7 @@ For this freelancing project, I developed a quick prototype that was fetching da
 Roka Security is a computer service firm specializing in cyber security. RokaCom Messaging App was a secure messaging application that allowed encrypted messaging and voice calling over wifi. For this project, I implemented two main functions: end-to-end encryption via SHA-256 encryption and voice calling using open source project [Linphone](https://www.linphone.org/). 
 
 ## goPanache
+<img src="https://github.com/ojerebts/ojerebts/blob/main/img/gopanache%20logo%20icon.png" width="60"> <br/>
 goPanache was a 'one stop shop' for barbers and beauty professionals that allowed them to showcase products, services, book appointments, and sell products. As one of the earliest lead engineers on the project, I worked on developing the entire application from mockups to shipping it to the App Store. The app had a variety of complex features such as supporting multiple service locations for barbers, accepting credit card payments, displaying online shop with products to upsell, book appointments and pay before or after the service, search available barbers in the area, cancel appointments and many others.
 <p align="center">
   <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/gopanache%20banner.png" width="60%"><br/>
