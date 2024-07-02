@@ -33,7 +33,7 @@ Wildfyre was an app prototype similar to Periscope, enabling creators to stream 
 ## Millennial Media
 Millennial Media was a mobile advertising platform providing ability for developers to include their SDK in the apps and receiving a portion of ad revenue. SDK supported various formats of ads: banners, full screen video, and inline ads. While working on SDK team at the company, I implemented internal app for our QA team to test variety of ad formats quickly and efficiently. 
 
-## [Sadhana Tracker](https://apps.apple.com/us/app/sadhana-tracker/id898291229)
+## [Sadhana Tracker](https://apps.apple.com/us/app/sadhana-tracker/id898291229) - #89 in Health & Fitness section on App Store!
 <img src="https://github.com/ojerebts/OlgaDev/blob/main/img/sadhana%20tracker%20icon.png" width="60"> <br/>
 Personal app I wrote to assist spiritual practitioners to track their meditation practice. As of June 2024 **it occupies #89 place in Health & Fitness section!** Main features include ability to add meditation practice for a pre-determined number of days (40, 90, 120, and 1000 days), checkin on a daily basis, share the progress, receive push notifications as reminders, and add notes to reflect on the practice itself. 
 <br/>
@@ -46,7 +46,8 @@ Personal app I wrote to assist spiritual practitioners to track their meditation
 Personal timer app that is no longer supported by me. Kirtan Kriya is one of the fundamental practices in Kundalini Yoga. This timer app is a great assistant the practice of Kirtan Kriya that allows to adjust the time from 11 min to 2,5 hours if desired. App allows to choose a music to practice along and alerts the practitioner when the intervals of the practice are finished. Other app features include: screen autolock to prevent the screen from dimming during your practice, choice of vibration vs chimes in settings, and background information on the practice itself.
 <br/>
 <p align="center">
-<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/kirtan%20kriya%20timer%20screenshots.png" width="70%">
+<img src="https://github.com/ojerebts/OlgaDev/blob/main/img/kirtan%20kriya%20timer%20screenshots.png" width="70%"></br>
+<img src="https://github.com/ojerebts/ojerebts/blob/main/img/sadhana%20tracker%2089.png" width="50%">
 </p>
 
 ## [Quotes by Yogi Bhajan](https://apps.apple.com/us/app/quotes-by-yogi-bhajan/id557492358)
