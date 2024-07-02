@@ -7,8 +7,7 @@ At Globant, I began as a Senior iOS Engineer and swiftly advanced to the positio
 
 <p align="center">
 <img src="https://github.com/ojerebts/ojerebts/blob/main/img/BR.png" width="80%" align="center"><br/>
-<img src="https://github.com/ojerebts/ojerebts/blob/main/img/GP.png" width="80%" align="center"><br/>
-<img src="https://github.com/ojerebts/ojerebts/blob/main/img/ON.png" width="80%" align="center">
+<img src="https://github.com/ojerebts/ojerebts/blob/main/img/GP.png" width="80%" align="center">
 </p>
 
 ## Health App Prototype
