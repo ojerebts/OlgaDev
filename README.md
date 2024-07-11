@@ -1,7 +1,7 @@
 # iOS Portfolio
 Hi, I am Olga! I have over 10+ years of professional experience writing beautiful, native iOS Apps for iPhone and iPad, using Swift and Objective-C. I have been writing iPhone apps since before ARC(automatic reference counting) was introduced in Xcode. Take a look at my projects.
 
-## Globant
+## Globant | [Gap](https://apps.apple.com/us/developer/gap-inc/id296279554)
 <img src="https://github.com/ojerebts/ojerebts/blob/main/img/gap%20icons.png" width="260"> <br/>
 
 At Globant, I began as a Senior iOS Engineer and swiftly advanced to the position of iOS Tech Lead, overseeing a team of six engineers for our client Gap. In this role, I collaborated closely with business, QA, and backend teams to ensure the timely delivery of features within an aggressive release cycle. I actively contributed to major architecture decisions alongside other leads, onboarded and trained new members of the team, and made sure we follow architecture guidelines through daily code reviews. The app itself has a number of architectural complexities such as **supporting 4 different brands within one app**, consuming dynamic information from a variety of backend systems, payment processing, shopping cart, membership benefits, advanced filtering and search capabilities, and many others. <br/><br/>
@@ -12,6 +12,7 @@ At Globant, I began as a Senior iOS Engineer and swiftly advanced to the positio
 <img src="https://github.com/ojerebts/ojerebts/blob/main/img/GP.png" width="80%" align="center">
 </p>
 <br/>
+
 ## Health App Prototype
 For this freelancing project, I developed a quick prototype that was fetching data from a variety of databases, files, and online sources with medical information. The medications information was then displayed in Apple's Health app. The app was designed to enhance user experience in Health app, providing vital information on possible medical contraindication, interactions, and adverse reactions for the user.
 
